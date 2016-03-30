@@ -1,0 +1,3 @@
+kernel/drivers/misc/qseecom.ko
+kernel/drivers/misc/asus_utility.ko
+kernel/drivers/misc/uid_cputime.ko

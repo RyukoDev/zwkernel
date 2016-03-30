@@ -1,0 +1,6 @@
+kernel/arch/arm/mach-msm/bms-batterydata.ko
+kernel/arch/arm/mach-msm/bms-batterydata-desay.ko
+kernel/arch/arm/mach-msm/bms-batterydata-oem.ko
+kernel/arch/arm/mach-msm/bms-batterydata-qrd-4v35-2000mah.ko
+kernel/arch/arm/mach-msm/bms-batterydata-qrd-4v2-1300mah.ko
+kernel/arch/arm/mach-msm/smcmod.ko

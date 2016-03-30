@@ -1,0 +1,1 @@
+cmd_drivers/char/hw_random/built-in.o :=  arm-linux-androidkernel-ld -EL    -r -o drivers/char/hw_random/built-in.o drivers/char/hw_random/rng-core.o drivers/char/hw_random/msm_rng.o drivers/char/hw_random/fips_drbg.o drivers/char/hw_random/ctr_drbg.o drivers/char/hw_random/msm_fips_selftest.o 
