@@ -1,0 +1,14 @@
+#
+# For a description of the syntax of this configuration file,
+# see Documentation/kbuild/kconfig-language.txt.
+#
+mainmenu "Linux/$ARCH $KERNELVERSION Kernel Configuration"
+
+config SRCARCH
+	string
+	option env="SRCARCH"
+
+config PARSE_RECOVERY_RESET_COMMAND
+	bool "Redirect recovery factory reset to asus oem factory reset"
+
+source "arch/$SRCARCH/Kconfig"
