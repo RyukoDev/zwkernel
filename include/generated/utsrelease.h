@@ -1,1 +1,1 @@
-#define UTS_RELEASE "3.10.40customkerneltest-g712d465-dirty"
+#define UTS_RELEASE "3.10.40custom-gc1d6cbf-dirty"

@@ -288,7 +288,7 @@
 		qcom,vibrator@c000 {
 			status = "okay";
 			qcom,vib-timeout-ms = <15000>;
-			qcom,vib-vtg-level-mV = <3000>;
+			qcom,vib-vtg-level-mV = <3100>;
 			qcom,mode = "dtest3";			/* Set vibrator to PWM mode */
 			qcom,pwm-channel = <5>;
 			qcom,period-us = <100000>;
