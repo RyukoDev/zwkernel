@@ -867,7 +867,7 @@
 			label = "vibrator";
 			status = "okay"; //Hammer +++ : change to "okay"
 			qcom,vib-timeout-ms = <15000>; //Hammer +++
-			qcom,vib-vtg-level-mv = <3000>; //Hammer +++
+			qcom,vib-vtg-level-mv = <3100>; //Hammer +++
 		};
 
 		qcom,leds@d300 {
